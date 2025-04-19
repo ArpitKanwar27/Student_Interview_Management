@@ -11,3 +11,27 @@ refactor: Code change that neither fixes a bug nor adds a feature
 test: Adding or updating tests
 
 chore: Changes to the build process or auxiliary tools
+--------------------------------------------------------------------
+
+💡 Example Commit Messages
+------------------
+feat(auth): add JWT token validation to login flow
+
+Ensures that users remain logged in after page refresh using stored token.
+------------------
+fix(ui): resolve broken layout on mobile view
+
+Adjusted Flexbox alignment for the cards on the dashboard page.
+------------------
+fix(ui): resolve broken layout on mobile view
+
+Adjusted Flexbox alignment for the cards on the dashboard page.
+------------------
+refactor: extract API logic into separate service files
+------------------
+docs(readme): update installation steps and API instructions
+------------------
+chore: add ESLint and Prettier config for code formatting
+------------------
+test(students): add unit tests for student form validation
+
