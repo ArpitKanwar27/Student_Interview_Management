@@ -1,0 +1,13 @@
+feat: A new feature
+
+fix: A bug fix
+
+docs: Documentation changes
+
+style: Formatting, missing semi colons, etc.
+
+refactor: Code change that neither fixes a bug nor adds a feature
+
+test: Adding or updating tests
+
+chore: Changes to the build process or auxiliary tools
