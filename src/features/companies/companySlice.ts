@@ -1,0 +1,1 @@
+// companySlice.ts placeholder

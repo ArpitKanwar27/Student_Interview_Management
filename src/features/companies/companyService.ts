@@ -1,0 +1,1 @@
+// companyService.ts placeholder
